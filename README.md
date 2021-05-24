@@ -6,5 +6,3 @@ Inspired by:
 
 ----------
 Not an official Google product
-
-(c) 2021
